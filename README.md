@@ -7,7 +7,8 @@
 این لینک ها را داخل نرم افزار خود بزارید :
 
 
-
+Config Type|subscription link
+-------------------------------|-----------------------------|
 Vmess         |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vmess_iran.txt     |
 ShadowSocks        |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt  |
 Trojan |https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/trojan_iran.txt|
